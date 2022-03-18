@@ -11,5 +11,10 @@
 開発技術：MongoDB＋NestJs＋Graphql＋Nextjs（ChakuraUI）
 
 
+# DB
+
+[MongoDBコメント集](/notes/20220318/mongo_command)
+
+
 
 
