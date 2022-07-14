@@ -1,6 +1,13 @@
 {
     "infos": [
       {
+        "title": "サーバー変更",
+        "subDesc": "サーバー変更",
+        "content": "「重要」CoSharerをより高い体験できるため、ただいまサーバー移行中。",
+        "imgUrl": "https://cosharer.reinf0rce.com/assets/images/top.png",
+        "createdTimestamp": 1657028367
+      },
+      {
         "title": "初リリース",
         "subDesc": "Google Store先行リリース",
         "content": "CoSharerがGoogle Store先行リリースしました、あなたのシェア生活をもっと便利になる",
