@@ -1,9 +1,9 @@
 {
     "infos": [
       {
-        "title": "サーバー変更",
-        "subDesc": "サーバー変更",
-        "content": "「重要」CoSharerをより高い体験できるため、ただいまサーバー移行中。",
+        "title": "バージョン変更",
+        "subDesc": "サーバー移行",
+        "content": "「重要」CoSharerをより高い体験できるため、サーバー移行完了しました、1.0.6でご確認の程よろしくお願いします。",
         "imgUrl": "https://cosharer.reinf0rce.com/assets/images/top.png",
         "createdTimestamp": 1657028367
       },
