@@ -2,20 +2,13 @@
     "infos": [
       {
         "title": "バージョン変更",
-        "subDesc": "OCIサーバー移行",
-        "content": "「重要」CoSharerをより高い体験できるため、AWSからOCIにサーバー移行完了しました、2.0.3でご確認の程よろしくお願いします。",
-        "imgUrl": "https://cosharer.reinf0rce.com/assets/images/top.png",
-        "createdTimestamp": 1657028367
-      },
-      {
-        "title": "バージョン変更",
         "subDesc": "サーバー移行",
-        "content": "「重要」CoSharerをより高い体験できるため、サーバー移行完了しました、1.0.6でご確認の程よろしくお願いします。",
+        "content": "「重要」CoSharerをより高い体験できるため、サーバー移行完了し、2.0.x以後のバージョンで不具合を修正しました、ご確認の程よろしくお願いします。",
         "imgUrl": "https://cosharer.reinf0rce.com/assets/images/top.png",
-        "createdTimestamp": 1657028367
+        "createdTimestamp": 1657029367
       },
       {
-        "title": "初リリース",
+        "title": "Androidリリース",
         "subDesc": "Google Store先行リリース",
         "content": "CoSharerがGoogle Store先行リリースしました、あなたのシェア生活をもっと便利になる",
         "imgUrl": "https://cosharer.reinf0rce.com/assets/images/top.png",
